@@ -1,0 +1,1 @@
+La función `max` podría ayudarnos a resolver el problema.

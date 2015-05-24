@@ -1,6 +1,7 @@
 ---
 tags:
-- inmutabilidad
 - tuplas
+- tipos
+- funcional
 - basico
 locale: es
