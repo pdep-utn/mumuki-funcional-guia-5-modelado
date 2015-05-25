@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: vaciarTanque
+  inspection: HasBinding
+- binding: vaciarTanque
+  inspection: HasTypeSignature
+- binding: Auto
+  inspection: HasTypeDeclaration

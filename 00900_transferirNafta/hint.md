@@ -1,1 +1,1 @@
-La función `max` podría ayudarnos a resolver el problema.
+Aca tenemos que devolver dos cosas, usar tuplas.
