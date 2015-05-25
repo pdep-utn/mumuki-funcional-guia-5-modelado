@@ -1,0 +1,1 @@
+type Auto = (String, Int, Int) 

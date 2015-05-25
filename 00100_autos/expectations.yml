@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: autoPepe
+  inspection: HasBinding
+- binding: autoMara
+  inspection: HasBinding
+- binding: autoPepe
+  inspection: HasTypeSignature
+- binding: autoMara
+  inspection: HasTypeSignature

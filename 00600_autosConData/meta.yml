@@ -1,9 +1,9 @@
 ---
 tags:
-- tuplas
-- tipos
-- funcional
-- basico
-- data
 - restriccionesDeTipos
+- data
+- basico
+- funcional
+- tipos
+- tuplas
 locale: es

@@ -1,9 +1,9 @@
 ---
 tags:
-- tuplas
-- inmutabilidad
-- tipos
-- funcional
-- basico
 - sinonimosDeTipos
+- basico
+- funcional
+- tipos
+- inmutabilidad
+- tuplas
 locale: es

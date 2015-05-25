@@ -1,10 +1,10 @@
 ---
 tags:
-- tuplas
-- pointFree
-- tipos
-- funcional
-- basico
-- composicion
 - aplicacionParcial
+- composicion
+- basico
+- funcional
+- tipos
+- pointFree
+- tuplas
 locale: es

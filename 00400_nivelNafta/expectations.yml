@@ -1,0 +1,14 @@
+---
+expectations:
+- binding: patente
+  inspection: HasBinding
+- binding: nivelNafta
+  inspection: HasBinding
+- binding: tamanioTanque
+  inspection: HasBinding
+- binding: patente
+  inspection: HasTypeSignature
+- binding: nivelNafta
+  inspection: HasTypeSignature
+- binding: tamanioTanque
+  inspection: HasTypeSignature
