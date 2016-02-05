@@ -3,4 +3,5 @@ tags:
 - funcional
 - data
 - basico
-locale: es
+layout: editor_right
+type: problem

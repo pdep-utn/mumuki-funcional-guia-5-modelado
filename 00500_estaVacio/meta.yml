@@ -7,4 +7,5 @@ tags:
 - tipos
 - pointFree
 - tuplas
-locale: es
+layout: editor_right
+type: problem

@@ -7,4 +7,5 @@ tags:
 - basico
 - composicion
 - aplicacionParcial
-locale: es
+layout: editor_right
+type: problem

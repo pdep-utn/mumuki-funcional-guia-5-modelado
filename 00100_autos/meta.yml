@@ -4,4 +4,5 @@ tags:
 - funcional
 - tipos
 - tuplas
-locale: es
+layout: editor_right
+type: problem

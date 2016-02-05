@@ -1,4 +1,20 @@
-name: 'Modelado' 
+---
+name: Modelado
 locale: es
+type: practice
+beta: false
 language: haskell
-original_id_format: '%05d'
+id_format: '%05d'
+order:
+- 100
+- 200
+- 300
+- 400
+- 500
+- 600
+- 700
+- 800
+- 900
+- 1000
+- 1100
+- 1200

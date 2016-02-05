@@ -5,4 +5,5 @@ tags:
 - tipos
 - inmutabilidad
 - tuplas
-locale: es
+layout: editor_right
+type: problem

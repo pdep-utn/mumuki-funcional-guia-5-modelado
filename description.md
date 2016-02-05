@@ -14,4 +14,6 @@ Pero esto sólo nos sirve para modelar cosas muy sencillas; representar una pers
    * poder definir nuevos tipos de datos con `data`
    * ¡y funciones! No nos olvidemos de que en funcional las funciones son valores, por lo que también nos sirven para representar cosas
 
-En esta guía aprenderemos a usary combinar estas herramientas
+¿Cómo podemos combinar estas herramientas?
+
+_La respuesta, a la vuelta de la página..._
