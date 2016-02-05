@@ -5,4 +5,4 @@ Ahora queremos desarrollar una función `vaciarTanque`, que tome un auto y deje 
 ("ABC123", 0, 30)
 ```
 
-> Escribí la función `vaciarTanque`, explicitá su tipo, usando el sinónimo de tipo Auto. 
+> Escribí la función `vaciarTanque`, explicitá su tipo, usando el sinónimo de tipo `Auto`. 
