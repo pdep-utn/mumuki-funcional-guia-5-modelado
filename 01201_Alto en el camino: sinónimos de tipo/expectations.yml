@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: Auto
+  inspection: HasTypeDeclaration
+- binding: ''
+  inspection: ''

@@ -4,7 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: vaciarTanque
   inspection: HasTypeSignature
-- binding: Auto
-  inspection: HasTypeDeclaration
 - binding: ''
   inspection: ''

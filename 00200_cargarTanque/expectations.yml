@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: cargarTanque
   inspection: Not:HasConditional
+- binding: ''
+  inspection: ''

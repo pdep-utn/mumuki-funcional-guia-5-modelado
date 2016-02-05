@@ -5,4 +5,4 @@ Ahora queremos desarrollar una función `vaciarTanque`, que tome un auto y deje 
 ("ABC123", 0, 30)
 ```
 
-Además, como nos estamos cansando de escribir `(String, Int, Int)`, cada vez que escribimos el tipo de una función que recibe o devuelve autos, se pide también definir y utilizar un sinónimo de tipo `Auto`
+> Escribí la función `vaciarTanque`, explicitá su tipo, usando el sinónimo de tipo Auto. 
