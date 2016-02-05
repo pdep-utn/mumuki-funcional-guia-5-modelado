@@ -1,13 +1,17 @@
-Queremos modelar un automóvil, del cual sabemos:
+Empecemos por algo fáci: queremos modelar un automóvil. De éste sabemos:
 
 * Su patente, por ejemplo `"CDX240"`
 * La cantidad de nafta que tiene actualmente
 * El tamaño máximo de su tanque de nafta
 
-Sabiendo esto, definir dos constantes:
+¿Cómo podríamos hacerlo?
 
-* `autoPepe`: es un auto con patente "ABW100", con un tanque vacío de 55 litros
-* `autoMara`: es un auto con patente "GIR982", con 10 litros de nafta, y un tanque de 65 litros.
+Claramente un simple entero o un string no nos alcanza, entonces podemos recurrir a las tuplas. 
 
-Tipar a ambos autos como `(String, Int, Int)`
+> Escribí las siguientes constantes: 
+>
+>  * `autoPepe`: es un auto con patente "ABW100", con un tanque vacío de 55 litros
+> * `autoMara`: es un auto con patente "GIR982", con 10 litros de nafta, y un tanque de 65 litros.
+> 
+> Ambas deben tener tipo `(String, Int, Int)`
 

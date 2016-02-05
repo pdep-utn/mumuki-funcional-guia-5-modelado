@@ -12,3 +12,5 @@ expectations:
   inspection: HasTypeSignature
 - binding: tamanioTanque
   inspection: HasTypeSignature
+- binding: ''
+  inspection: ''

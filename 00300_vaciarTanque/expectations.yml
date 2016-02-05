@@ -6,3 +6,5 @@ expectations:
   inspection: HasTypeSignature
 - binding: Auto
   inspection: HasTypeDeclaration
+- binding: ''
+  inspection: ''
