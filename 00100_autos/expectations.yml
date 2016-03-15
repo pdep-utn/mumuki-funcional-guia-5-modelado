@@ -8,5 +8,3 @@ expectations:
   inspection: HasTypeSignature
 - binding: autoMara
   inspection: HasTypeSignature
-- binding: ''
-  inspection: ''
