@@ -1,3 +1,4 @@
+type Auto = (String, Int, Int) 
 nivelNafta :: Auto -> Int
 nivelNafta (_, n, _) = n
 
