@@ -1,1 +1,1 @@
-Pensar que no siempre es necesario descomponer a la tupla para poder trabajar con ella.
+Pensar que no siempre es necesario descomponer al auto mediante pattern matching para poder trabajar con él.
