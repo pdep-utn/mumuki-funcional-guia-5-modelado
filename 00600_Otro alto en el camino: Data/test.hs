@@ -8,3 +8,6 @@ describe "autos" $ do
 describe "data Auto" $ do
   it "un auto puede construirse con el constructor Auto" $ do
     show (Auto "GIR982" 0 100) `shouldBe` "Auto \"GIR982\" 0 100"
+    
+  it "un auto puede compararse con otro auto por igualdad" $ do
+    (Auto "GIR982" 0 100) == (Auto "GIR982" 0 100) `shouldBe` True

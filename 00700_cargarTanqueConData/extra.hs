@@ -1,0 +1,1 @@
+data Auto = Auto String Int Int deriving (Show, Eq)
