@@ -4,4 +4,4 @@ Para pensar respecto al uso de pattern matching: ¿tu solución para la función
 
 Si la respuesta es sí, ¿usar pattern matching te resultó cómodo para este problema? ¿por qué?
 
-Si la respuesta es no, seguramente delegaste esto a otras funciones auxiliares que se encarguen, ¿no? De ser así, probablemente estás en el escenario más feliz :D
+Si la respuesta es no, seguramente delegaste esto a otras funciones auxiliares que se encarguen, ¿no? De ser así, probablemente estás en el escenario más feliz :+1:
