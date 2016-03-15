@@ -1,1 +1,0 @@
-Dado que una función sólo tiene un valor de retorno, tenemos que poder incluir en el resultado un tipo de dato que incluya a los dos autos. Modelarlo como una tupla de tipo (Auto, Auto).

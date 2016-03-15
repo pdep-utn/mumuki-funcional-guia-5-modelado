@@ -1,0 +1,2 @@
+Dado que una función sólo tiene un valor de retorno, el resultado debe ser un tipo de dato compuesto por dos autos. Si bien podríamos haber definido un tipo de dato propio, en este caso no era particularmente interesante, ya que usamos a la tupla como medio para juntar otros datos, pero no hay una abstracción propia del dominio detrás de ese par de autos que amerite modelar de forma más compleja.
+
