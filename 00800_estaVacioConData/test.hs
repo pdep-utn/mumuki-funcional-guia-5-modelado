@@ -25,3 +25,9 @@ describe "tamanioTanque" $ do
 
   it "tamanioTanque (Auto \"AGG00\" 2 10) == 10" $ do
     tamanioTanque (Auto "AGG00" 2 10) `shouldBe` 10
+    
+describe "notación registro" $ do
+  it "el auto puede construirse con notación registro" $ do
+    Auto {patente = "XFG123",
+      tamanioTanque = 30,
+      nivelNafta = 10} `shouldBe` (Auto "XFG123" 10 30)
