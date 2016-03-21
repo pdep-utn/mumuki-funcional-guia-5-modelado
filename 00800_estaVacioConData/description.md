@@ -5,4 +5,4 @@ Dado un auto, nos gustaría saber dos cosas:
 
 Se pide definir las funciones `estaLleno` y `estaVacio`, empleando en esta última además composición y aplicación parcial.
 
-**Nota**: Generar las función `tamanioTanque` y `nivelNafta` mediante la sintaxis de registro
+**Nota**: Asumir que ya existen las funciones `tamanioTanque` y `nivelNafta` para usarlas en las definiciones de `estaLleno` y `estaVacio`, o sea, no usar pattern matching!
