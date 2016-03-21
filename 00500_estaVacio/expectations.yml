@@ -1,4 +1,8 @@
 ---
 expectations:
 - binding: estaVacio
-  inspection: HasComposition
+  inspection: HasUsage:nivelNafta
+- binding: estaLleno
+  inspection: HasUsage:nivelNafta
+- binding: estaLleno
+  inspection: HasUsage:tamanioTanque
