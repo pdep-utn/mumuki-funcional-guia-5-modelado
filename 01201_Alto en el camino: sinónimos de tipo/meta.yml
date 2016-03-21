@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+- sinonimosDeTipos
+- tipos
+- tuplas
 layout: editor_right
 type: problem
 extra_visible: false

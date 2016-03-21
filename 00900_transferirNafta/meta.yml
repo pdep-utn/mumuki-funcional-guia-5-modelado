@@ -3,6 +3,7 @@ tags:
 - funcional
 - data
 - basico
+- tuplas
 layout: editor_right
 type: problem
 extra_visible: false
