@@ -1,1 +1,1 @@
-Habrás notado que la definición de estaLleno y estaVacio no cambia respecto a la anterior. Al usar funciones que se encargan de encapsular los detalles de cómo está modelado el auto, cambiar estos detalles no afectan al resto del programa!
+Habrás notado que las definiciones de estaLleno y estaVacio no cambian respecto a las anteriores. Al usar funciones que se encargan de encapsular los detalles de cómo está modelado el auto en vez de usar pattern matching, cambiar estos detalles no afectan al resto del programa!
