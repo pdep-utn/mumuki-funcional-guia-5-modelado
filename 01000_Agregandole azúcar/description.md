@@ -7,7 +7,9 @@ Vimos que es muy común querer definir las funciones que retornan los componente
 A su vez terminaríamos definiendo 3 funciones de este estilo:
 ```
 patente :: Auto -> String
+
 nivelNafta :: Auto -> Int
+
 tamanioTanque :: Auto -> Int
 ```
 Esto a la larga puede tornarse un poco molesto, y además para crear un auto tenemos que recordar en qué orden es que hay que pasarle la información, por ejemplo: `Auto "CDX240" 0 50` no es lo mismo que `Auto "CDX240" 50 0`, tenemos que recordar que el primer número es el nivel de nafta y el segundo el tamaño del tanque.
