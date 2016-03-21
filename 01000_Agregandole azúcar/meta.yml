@@ -1,11 +1,7 @@
 ---
 tags:
-- sinonimosDeTipos
-- basico
 - funcional
-- tipos
-- inmutabilidad
-- tuplas
+- data
 layout: editor_right
 type: problem
 extra_visible: false
