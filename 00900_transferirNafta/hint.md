@@ -1,0 +1,1 @@
+Recordá que existe la función `min` que puede ser de utilidad para saber cuánta nafta transferir.
