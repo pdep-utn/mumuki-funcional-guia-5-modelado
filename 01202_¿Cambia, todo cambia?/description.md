@@ -21,3 +21,5 @@ autoMara
 Es importante entender que en el paradigma funcional, nada cambia. Las funciones cargarTanque y vaciarTanque lo único que hacen es crear un nuevo auto que nos muestre cómo quedaría el auto original si se le cargara nafta o se le vaciara el tanque. Pero por más que intentemos, no vamos a cambiar los datos del auto original.
 
 Los datos son **inmutables**, o sea, no cambian. Todas aquellas operaciones que, teniendo la posibilidad de modificar los datos de entrada, las hubiéramos resuelto produciendo un efecto sobre dichos datos, en funcional lo que hacemos es simplemente crear un nuevo dato para retornarlo como resultado de la operación.
+
+Recordá que la inmutabilidad nos plantea que no podemos cambiar el mundo, pero nada nos impide crear un nuevo mundo que nos guste más :grin:
