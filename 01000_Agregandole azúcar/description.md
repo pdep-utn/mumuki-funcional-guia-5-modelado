@@ -14,7 +14,7 @@ tamanioTanque :: Auto -> Int
 
 Esto a la larga puede tornarse un poco molesto, y además para crear un auto tenemos que recordar en qué orden es que hay que pasarle la información, por ejemplo: `Auto "CDX240" 0 50` no es lo mismo que `Auto "CDX240" 50 0`, tenemos que recordar que el primer número es el nivel de nafta y el segundo el tamaño del tanque.
 
-Una alternativa distinta de declarar el data auto que nos ayuda con estos problemas es usar sintaxis de registro, que es un azúcar sintáctico para indicar al momento de definir cómo se construye un dato qué significa cada uno de sus componentes. Por ejemplo, para un tipo de dato que modela a un alumno con su nombre y su edad, en vez de definirlo así:
+Una alternativa distinta de declarar el data Auto que nos ayuda con estos problemas es usar sintaxis de registro, que es un azúcar sintáctico para indicar al momento de definir cómo se construye un dato qué significa cada uno de sus componentes. Por ejemplo, para un tipo de dato que modela a un alumno con su nombre y su edad, en vez de definirlo así:
 
 `data Alumno = Alumno String Int deriving (Show, Eq)`
 
