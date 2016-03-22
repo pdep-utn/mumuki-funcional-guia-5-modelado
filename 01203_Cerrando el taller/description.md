@@ -5,6 +5,7 @@ Hasta ahora sólo fue una cuestión de formalizar una idea de nuestro dominio, p
 Desarrollar una función `hacerService :: Auto -> [ServicioAutomotor] -> Auto` que retorne cómo quedaría el auto recibido luego de realizar cada servicio.
 
 > Aprovechá que están cargadas las siguientes funciones para hacer pruebas en la consola!
+
 ```
 vaciarTanque :: ServicioAutomotor
 cargarTanque :: Int -> ServicioAutomotor
