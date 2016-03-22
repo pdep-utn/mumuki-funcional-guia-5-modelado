@@ -1,11 +1,10 @@
 ---
 tags:
 - sinonimosDeTipos
-- basico
 - funcional
 - tipos
 - inmutabilidad
-- tuplas
+- aplicación parcial
 layout: editor_right
 type: problem
 extra_visible: false
