@@ -4,7 +4,7 @@ tags:
 - funcional
 - tipos
 - inmutabilidad
-- aplicación parcial
+- aplicacionParcial
 layout: editor_right
 type: problem
 extra_visible: false
