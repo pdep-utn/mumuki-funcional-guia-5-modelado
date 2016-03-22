@@ -14,4 +14,4 @@ Pero esto sólo nos sirve para modelar cosas muy sencillas; representar una pers
 
 ¿Cómo podemos combinar estas herramientas?
 
-_La respuesta, a la vuelta de la página..._
+Esta es una guía muy ambiciosa, porque no busca sólo ayudarte a resolver problemas, sino ayudarte a tomar decisiones y empezar a diseñar! Así que, abrochate el cinturón, que vamos a meter quinta!
