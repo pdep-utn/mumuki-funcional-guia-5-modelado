@@ -1,8 +1,6 @@
 ---
 expectations:
-- binding: vaciarTanque
+- binding: enchularPatente
   inspection: HasBinding
-- binding: vaciarTanque
+- binding: enchularPatente
   inspection: HasTypeSignature
-- binding: Auto
-  inspection: HasTypeDeclaration

@@ -1,0 +1,3 @@
+A la hora de modelar con funciones, es importante tener en claro cuál debería ser el tipo general de lo que queremos representar. De esa forma, para aquellos casos no triviales en los cuales necesites más parámetros que los que el tipo general dicta, podés decidir a conciencia a la hora de definir esas funciones que esos parámetros extra se esperen antes que los parámetros requeridos por el tipo general.
+
+Al tener en cuenta esto, luego va a ser mucho más fácil usarlas :+1:
