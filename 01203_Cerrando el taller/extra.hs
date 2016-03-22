@@ -13,3 +13,5 @@ enchularPatente string auto = Auto
     {patente = take 3 string ++ drop 3 (patente auto),
     nivelNafta = nivelNafta auto,
     tamanioTanque = tamanioTanque auto}
+    
+agrandarTanque tamanio (Auto p n t) = Auto p n (t+tamanio)
