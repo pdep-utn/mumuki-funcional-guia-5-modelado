@@ -1,7 +1,7 @@
 ---
 name: Modelado
 locale: es
-type: practice
+type: learning
 beta: false
 language: haskell
 id_format: '%05d'
