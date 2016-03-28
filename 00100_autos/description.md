@@ -10,7 +10,7 @@ Claramente un simple entero o un string no nos alcanza, entonces podemos recurri
 
 > Escribí las siguientes constantes: 
 >
->  * `autoPepe`: es un auto con patente "ABW100", con un tanque vacío de 55 litros
+> * `autoPepe`: es un auto con patente "ABW100", con un tanque vacío de 55 litros
 > * `autoMara`: es un auto con patente "GIR982", con 10 litros de nafta, y un tanque de 65 litros.
 > 
 > Ambas deben tener tipo `(String, Int, Int)`
