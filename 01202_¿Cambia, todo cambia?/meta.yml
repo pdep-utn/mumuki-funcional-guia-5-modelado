@@ -1,6 +1,6 @@
 ---
 tags:
 - inmutabilidad
-layout: editor_right
+layout: editor_bottom
 type: playground
 extra_visible: false
