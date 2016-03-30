@@ -14,4 +14,4 @@ Pero esto sólo nos sirve para modelar cosas muy sencillas; representar una pers
 
 ¿Cómo podemos combinar estas herramientas?
 
-_ ¡Abrochate el cinturón, que vamos a meter quinta! :rocket: _
+_¡Abrochate el cinturón, que vamos a meter quinta! :rocket:_
