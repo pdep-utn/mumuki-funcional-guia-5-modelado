@@ -8,10 +8,10 @@ miNombre :: String
 miNombre = "Pepe"
 ```
 
-Pero esto sólo nos sirve para modelar cosas muy sencillas; representar una persona, un automóvil, una votación, una nota musical, un deseo, un suceso en la historia de Watchmen, la transformación de un Pokémon o de Gokú, etc requieren de otras herramientas: tuplas y listas. 
+Pero esto sólo nos sirve para modelar cosas muy sencillas; representar una persona, un automóvil, una votación, una nota musical, un deseo, un suceso en la historia de Watchmen, la transformación de un Pokémon o de Gokú, etc requieren de otras herramientas: tuplas y data. 
 
 ¡Y no nos olvidemos de la funciones, que también sirven para modelar!
 
 ¿Cómo podemos combinar estas herramientas?
 
-Esta es una guía muy ambiciosa, porque no busca sólo ayudarte a resolver problemas, sino ayudarte a tomar decisiones y empezar a diseñar! Así que, abrochate el cinturón, que vamos a meter quinta!
+> ¡Abrochate el cinturón, que vamos a meter quinta! :rocket:
