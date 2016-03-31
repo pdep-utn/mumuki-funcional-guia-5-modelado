@@ -10,4 +10,4 @@ Por ejemplo, los Strings no son más que listas de caracteres, por eso String es
 
 `type String = [Char]`
 
-Definí el sinónimo de tipo **Auto** para la tupla con un String y dos Int.
+> Definí el sinónimo de tipo **Auto** para la tupla con un String y dos Int.
