@@ -1,6 +1,6 @@
 ---
 tags:
 - data
-layout: editor_right
+layout: editor_bottom
 type: playground
-extra_visible: true
+extra_visible: false

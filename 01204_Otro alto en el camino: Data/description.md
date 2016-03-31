@@ -18,4 +18,9 @@ Y eso automáticamente nos da:
 * un tipo: puedo usarlo para por ejemplo tipar funciones como `Persona -> Persona`
 * funciones para acceder a la componentes. Por ejemplo, genera por nosotros la función `nombre :: Persona -> String`
 
-> ¿No nos crees? Probá las constantes que declaramos por vos (mirá el código adicional)
+> ¿No nos crees? Probá las constantes que declaramos por vos:
+> 
+> ```haskell
+> maiu = Persona "Mariana" 27
+> alf = Persona "Alfredo" 29
+> ```
