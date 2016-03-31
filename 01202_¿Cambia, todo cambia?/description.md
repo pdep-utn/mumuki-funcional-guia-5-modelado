@@ -9,12 +9,12 @@ cargarTanque :: Int -> Auto -> Auto
 ¿Qué esperás que pase con el auto de Mara luego de cargarle nafta? 
 
 > Realizá las siguientes consultas en la consola:
-
-```haskell
-ム cargarTanque 10 autoMara
---???
-ム cargarTanque 60 autoMara
--- ??
-ム autoMara
--- ??
+> 
+> ```haskell
+> ム cargarTanque 10 autoMara
+> --???
+> ム cargarTanque 60 autoMara
+> -- ??
+> ム autoMara
+> -- ??
 ```
