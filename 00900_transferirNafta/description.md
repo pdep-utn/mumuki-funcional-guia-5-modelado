@@ -2,4 +2,4 @@ Queremos pasar la nafta de un tanque a otro, mediante una función `transferir :
 
 Evitar la repetición de lógica definiendo una función auxiliar `cuantoLePuedeDar :: Auto -> Auto -> Int` que indique la cantidad de nafta que el primero puede transferir al segundo.
 
-> Asumir que el data Auto ya está definido al igual que las funciones patente, nivelNafta y tamanioTanque, en caso de querer usarlas.
+> Asumir que el data Auto ya está definido al igual que las funciones cargarTanque, patente, nivelNafta y tamanioTanque, en caso de querer usarlas.
