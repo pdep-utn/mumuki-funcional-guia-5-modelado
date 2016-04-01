@@ -1,6 +1,6 @@
 Al definir:
 
-`data Auto = Auto String Int Int deriving (Show, Eq)`
+`data Auto = Auto String Int Int`
 
 Lo que hiciste fue declarar el tipo de dato Auto con un constructor que también se llama Auto y podemos usarlo para crear un auto si le pasamos una patente, el nivel de nafta y el tamaño del tanque.
 
