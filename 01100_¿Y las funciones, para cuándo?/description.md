@@ -4,7 +4,7 @@ Como ya vimos anteriormente, las funciones también son valores, y pueden perfec
 
 Estaría bueno poder formalizar qué es un servicio automotor, además de decir que son funciones. Más allá de los detalles concretos de cada servicio, lo esperable para cualquier servicio es que reciban un auto y retornen un nuevo auto con la información que corresponda luego de realizarle dicho servicio.
 
-Así como anteriormente usamos un sinónimo de tipo para decir que (String, Int, Int) era equivalente a de decir simplemente Auto, lo mismo podemos hacer con las funciones.
+Así como anteriormente usamos un sinónimo de tipo para decir que (String, Int, Int) era equivalente a decir simplemente Auto, lo mismo podemos hacer con las funciones.
 
 Definí un sinónimo de tipo llamado ServicioAutomotor que sea equivalente a una función que recibe un Auto y retorna un Auto, y escribí la declaración del tipo de la función vaciarTanque usándolo.
 
