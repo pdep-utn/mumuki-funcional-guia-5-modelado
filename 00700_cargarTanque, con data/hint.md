@@ -1,1 +1,1 @@
-La función `max` podría ayudarnos a resolver el problema.
+La función `min` podría ayudarnos a resolver el problema.
