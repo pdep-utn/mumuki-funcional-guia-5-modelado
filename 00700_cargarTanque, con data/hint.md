@@ -1,1 +1,0 @@
-La función `min` podría ayudarnos a resolver el problema.

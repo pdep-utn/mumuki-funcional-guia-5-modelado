@@ -1,4 +1,0 @@
----
-expectations:
-- binding: Auto
-  inspection: HasTypeDeclaration

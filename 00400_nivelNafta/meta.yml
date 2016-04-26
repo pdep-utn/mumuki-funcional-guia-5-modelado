@@ -1,7 +1,9 @@
 ---
 tags:
+- basico
 - funcional
 - tipos
+- inmutabilidad
 - tuplas
 layout: editor_right
 type: problem

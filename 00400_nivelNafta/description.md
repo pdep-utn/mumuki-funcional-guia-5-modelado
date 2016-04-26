@@ -1,4 +1,4 @@
-¡Hagamos cosas con nuestros autos! Dado un automóvil, en distintos momentos nos gustaría saber:
+Dado un automóvil, en distintos momentos nos gustaría saber:
 
 * Su patente
 * Su nivel actual de nafta
@@ -7,16 +7,16 @@
 Ejemplo:
 
 ```haskell
-ム patente ("ABC123", 20, 50)
+> patente ("ABC123", 20, 50)
 "ABC123"
-ム nivelNafta autoAlf
+> nivelNafta autoAlf
 4 -- asumiendo que autoAlf = ("GHS", 4, 56)
 ```
 
-> Desarrollá y tipá las funciones `patente`, `nivelNafta` y `tamanioTanque`.
-> 
-> Asumí que ya existe la siguiente declaración:
->
->```haskell
->type Auto = (String, Int, Int)
->```
+Se pide entonces desarrollar y tipar las funciones `patente`, `nivelNafta` y `tamanioTanque`.
+
+**Nota**: considerar que ya existe la siguiente declaración:
+
+```haskell
+type Auto = (String, Int, Int)
+```

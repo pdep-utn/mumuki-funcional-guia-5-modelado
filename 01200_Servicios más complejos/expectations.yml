@@ -1,6 +1,0 @@
----
-expectations:
-- binding: enchularPatente
-  inspection: HasBinding
-- binding: enchularPatente
-  inspection: HasTypeSignature

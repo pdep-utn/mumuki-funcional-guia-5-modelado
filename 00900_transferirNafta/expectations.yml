@@ -1,8 +1,0 @@
----
-expectations:
-- binding: transferir
-  inspection: HasUsage:cuantoLePuedeDar
-- binding: cuantoLePuedeDar
-  inspection: HasBinding
-- binding: cuantoLePuedeDar
-  inspection: Not:HasGuards

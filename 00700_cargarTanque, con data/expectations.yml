@@ -1,6 +1,0 @@
----
-expectations:
-- binding: cargarTanque
-  inspection: HasTypeSignature
-- binding: cargarTanque
-  inspection: Not:HasGuards

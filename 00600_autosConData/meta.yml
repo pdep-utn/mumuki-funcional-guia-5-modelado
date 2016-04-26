@@ -1,11 +1,10 @@
 ---
 tags:
-- aplicacionParcial
-- composicion
+- restriccionesDeTipos
+- data
 - basico
 - funcional
 - tipos
-- pointFree
 - tuplas
 layout: editor_right
 type: problem

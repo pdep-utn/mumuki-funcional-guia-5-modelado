@@ -12,6 +12,6 @@ El tanque no puede rebalsar su capacidad; lo que exceda el tamaño del tanque se
 ("ABC123", 30, 30)
 ```
 
-> Escribí la función `cargarTanque` y explicitá su tipo
->
-> Resolvelo sin emplear guardas
+Se pide desarrollar y escribir el tipo de `cargarTanque`.
+
+**Nota**: resolverlo sin emplear guardas

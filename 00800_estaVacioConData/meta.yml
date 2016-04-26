@@ -1,12 +1,12 @@
 ---
 tags:
-- aplicacionParcial
-- composicion
-- basico
-- funcional
-- tipos
-- pointFree
 - tuplas
+- pointFree
+- tipos
+- funcional
+- basico
+- composicion
+- aplicacionParcial
 layout: editor_right
 type: problem
 extra_visible: false

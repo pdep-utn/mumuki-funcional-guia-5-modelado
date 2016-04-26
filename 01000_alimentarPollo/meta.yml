@@ -1,11 +1,10 @@
 ---
 tags:
-- aplicacionParcial
-- composicion
+- sinonimosDeTipos
 - basico
 - funcional
 - tipos
-- pointFree
+- inmutabilidad
 - tuplas
 layout: editor_right
 type: problem
