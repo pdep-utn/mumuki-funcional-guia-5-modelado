@@ -13,6 +13,8 @@ cargarTanque :: Int -> Auto -> Auto
 > ```haskell
 > ム cargarTanque 10 autoMara
 > --???
+> ム autoMara
+> -- ??
 > ム cargarTanque 60 autoMara
 > -- ??
 > ム autoMara
