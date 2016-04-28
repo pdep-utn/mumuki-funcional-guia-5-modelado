@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: vaciarTanque
+  inspection: HasTypeSignature
+- binding: ServicioAutomotor
+  inspection: HasTypeDeclaration

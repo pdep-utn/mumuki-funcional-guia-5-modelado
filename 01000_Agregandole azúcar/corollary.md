@@ -1,0 +1,1 @@
+¡Felicitaciones! Antes de pasar al siguiente ejercicio aprovechá para ver cómo se imprimen en la consola los autos de Pepe y Mara, seguramente lo vas a encontrar mucho más amigable que antes :grin:

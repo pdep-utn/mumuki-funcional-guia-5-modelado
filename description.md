@@ -8,10 +8,10 @@ miNombre :: String
 miNombre = "Pepe"
 ```
 
-Pero esto sólo nos sirve para modelar cosas muy sencillas; representar una persona, un automóvil, una votación, una nota musical, un deseo, un suceso en la historia de Watchmen, la transformación de un Pokémon o de Gokú, etc requieren de otras herramientas
+Pero esto sólo nos sirve para modelar cosas muy sencillas; representar una persona, un automóvil, una votación, una nota musical, un deseo, un suceso en la historia de Watchmen, la transformación de un Pokémon o de Gokú, etc requieren de otras herramientas: tuplas y data. 
 
-   * tipos de datos compuestos: tuplas, listas
-   * poder definir nuevos tipos de datos con `data`
-   * ¡y funciones! No nos olvidemos de que en funcional las funciones son valores, por lo que también nos sirven para representar cosas
+¡Y no nos olvidemos de la funciones, que también sirven para modelar!
 
-En esta guía aprenderemos a usary combinar estas herramientas
+¿Cómo podemos combinar estas herramientas?
+
+_¡Abrochate el cinturón, que vamos a meter quinta! :rocket:_

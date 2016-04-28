@@ -1,0 +1,1 @@
+Habrás notado que para definir `hacerService` no importa ninguna de las particularidades de las funciones previamente definidas, sólo que puedan recibir un Auto y retornar otro. Por eso es tan importante poder detenerse a abstraser el tipo general, es lo único que importa a la hora de usar los servicios y nos sirve como guía para todo lo demás.

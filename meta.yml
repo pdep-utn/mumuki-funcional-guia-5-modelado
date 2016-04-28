@@ -1,16 +1,19 @@
 ---
-name: Modelados
+name: Modelado
 locale: es
-type: practice
+type: learning
 beta: false
 language: haskell
 id_format: '%05d'
 order:
 - 100
-- 200
-- 300
 - 400
+- 200
+- 1201
+- 1202
+- 300
 - 500
+- 1204
 - 600
 - 700
 - 800
@@ -18,3 +21,4 @@ order:
 - 1000
 - 1100
 - 1200
+- 1203
