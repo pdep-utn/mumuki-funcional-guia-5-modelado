@@ -15,8 +15,4 @@ Ejemplo:
 
 > Desarrollá y tipá las funciones `patente`, `nivelNafta` y `tamanioTanque`.
 > 
-> Asumí que ya existe la siguiente declaración:
->
->```haskell
->type Auto = (String, Int, Int)
->```
+
