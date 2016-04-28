@@ -1,3 +1,4 @@
+
 describe "autos" $ do
   it "el auto de pepe se ve como: Auto \"ABW100\" 0 55" $ do
     show autoPepe `shouldBe` "Auto \"ABW100\" 0 55"
@@ -11,3 +12,4 @@ describe "data Auto" $ do
     
   it "un auto puede compararse con otro auto por igualdad" $ do
     (Auto "GIR982" 0 100) == (Auto "GIR982" 0 100) `shouldBe` True
+    
