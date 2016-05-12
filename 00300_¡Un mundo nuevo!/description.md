@@ -12,4 +12,5 @@ La inmutabilidad nos plantea que no podemos cambiar el mundo, pero **nada nos im
 >("ABC123", 0, 30)
 >```
 >
-> Explicitá su tipo, usando el sinónimo de tipo `Auto`, y pensá: ¿tiene efecto? ¿modifica al mundo?
+> Explicitá su tipo, usando el sinónimo de tipo `Auto` (asumí que ya está definido), y pensá: ¿tiene efecto? ¿modifica al mundo?
+
