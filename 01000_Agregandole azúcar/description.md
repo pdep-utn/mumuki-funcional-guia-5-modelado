@@ -22,7 +22,7 @@ Podemos definirlo de esta otra forma usando sintaxis de registro:
 
 `data Alumno = Alumno {nombre :: String, edad :: Int } deriving (Show, Eq)`
 
-Y eso no sólo nos va a permitir usar las funciones nombre y edad sin definir más nada como te veníamos anticipando, sino que nos va a permitir crear alumnos de la siguiente forma: `Alumno {edad = "20", nombre = "Juan"}` además de como lo veníamos haciendo: `Alumno "Juan" 20`.
+Y eso no sólo nos va a permitir usar las funciones nombre y edad sin definir más nada como te veníamos anticipando, sino que nos va a permitir crear alumnos de la siguiente forma: `Alumno {edad = 20, nombre = "Juan"}` además de como lo veníamos haciendo: `Alumno "Juan" 20`.
 
 Después de toda esta explicación, te toca a vos!
 
